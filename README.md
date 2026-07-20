@@ -134,6 +134,7 @@ A CRUD application built with a focus on clean architecture and efficient data m
 
 ![snake](https://raw.githubusercontent.com/manojkumar-devep/manojkumar-devep/output/github-snake-dark.svg#gh-dark-mode-only)
 ![snake](https://raw.githubusercontent.com/manojkumar-devep/manojkumar-devep/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake animation](https://raw.githubusercontent.com/manojkumar-devep/manojkumar-devep/output/github-snake-grid.svg)
 
 </div>
 
